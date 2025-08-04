@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on introductory projects in C, Python, Java, Ocaml, HTML, Matlab
 - 📫 Reach me on LinkedIn or Email
 - 😄 Pronouns: he, his, him
-- ⚡ Fun fact: I am a triplet
 
 <!---
 tyronemarhguy/tyronemarhguy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
